@@ -6,11 +6,6 @@ A ticket booking app made for Nueplex cinemas.
 EZ Tickets is an app made with **Flutter** framework to provide online ticket booking functionality.
 **The release apk is available under the release tags. It's also available on this drive link - [EZ Tickets APK]**
 
-## Demo
-<div align="center">
-  <video src="https://user-images.githubusercontent.com/62943972/149531248-ccbd3b54-1ae8-4565-807b-2f8bf2e64d21.mp4"/>
-</div>
-
 ## Backend
 For the backend it uses a REST API made using NodeJS and MySQL. Here is the link to it's code [ez_tickets_backend]
 
@@ -81,7 +76,7 @@ flutter run --dart-define=BASE_URL="your-url-here"
 
 Splash Screen | Home Screen | Welcome Screen |
 :------------:|:-----------:|:--------------:|
-![](./readme_files/splash_screen.jpg) | ![](./readme_files/home_screen.jpg) | ![](./readme_files/welcome_screen.jpg)
+![](splash_screen.jpg) | ![](./readme_files/home_screen.jpg) | ![](./readme_files/welcome_screen.jpg)
 Movie Details Screen | Movies Screen | Movie Trailer Screen |
 ![](./readme_files/movie_details_screen.jpg) | ![](./readme_files/movies_screen.jpg) | ![](./readme_files/trailer_screen.jpg)
 Shows Screen | Theater Screen | Tickets Screen |
