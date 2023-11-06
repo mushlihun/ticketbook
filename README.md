@@ -92,7 +92,7 @@ Login Screen | Register Screen | Change Password Screen |
 Forgot Password Screen | OTP Screen | OTP Email |
 ![](./readme_files/forgot_password_screen.jpg) | ![](./readme_files/otp_screen.jpg) | ![](./readme_files/otp_email.jpg)
 
-[backend]: <https://github.com/mushlihun/ticketbook.git/backend>
+[backend]: <https://github.com/mushlihun/ticketbook/tree/master/nodebackend>
 [frontend]: <https://github.com/mushlihun/ticketbook>
 [Book Tickets APK]: <https://drive.google.com/file/d/1n1NLNaKK58IyZHnq1ehFZvzZLKmsKjtv/view?usp=sharing->
 [dribbble shot]: <https://dribbble.com/shots/8257559-Movie-2-0>
