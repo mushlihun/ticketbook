@@ -1,12 +1,12 @@
 # Backend
 For the backend it uses a REST API made using NodeJS and MySQL. Here is the link to it's code [backend]
 
-For more instruction visit the backend [README](https://github.com/arafaysaleem/ez_tickets_backend/blob/master/README.md#rocket-deployement).
+For more instruction visit the backend [README](https://github.com/mushlihun/ticketbook/blob/master/nodebackend/README.md#rocket-deployement).
 
 # Frontend
 A ticket booking app made for cinemas [frontend].
 Book Tickets is an app made with **Flutter** framework to provide online ticket booking functionality.
-**The release apk is available under the release tags. It's also available on this drive link - [Book Tickets APK]**
+**The release apk is available under the release tags. It's also available on this drive link - [Release APK]**
 
 ## Project setup
 ```
@@ -69,6 +69,6 @@ flutter run --dart-define=BASE_URL="your-url-here"
 
 [backend]: <https://github.com/mushlihun/ticketbook/tree/master/nodebackend>
 [frontend]: <https://github.com/mushlihun/ticketbook>
-[Book Tickets APK]: <https://drive.google.com/file/d/1n1NLNaKK58IyZHnq1ehFZvzZLKmsKjtv/view?usp=sharing->
+[Release APK]: <https://drive.google.com/file/d/1n1NLNaKK58IyZHnq1ehFZvzZLKmsKjtv/view?usp=sharing->
 [dribbble shot]: <https://dribbble.com/shots/8257559-Movie-2-0>
 [Flutter v2.8.1]: <https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.8.1-stable.zip>
