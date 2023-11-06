@@ -1,17 +1,12 @@
-## Backend
+# Backend
 For the backend it uses a REST API made using NodeJS and MySQL. Here is the link to it's code [backend]
 
 For more instruction visit the backend [README](https://github.com/arafaysaleem/ez_tickets_backend/blob/master/README.md#rocket-deployement).
 
-# frontend
+# Frontend
 A ticket booking app made for cinemas [frontend].
 Book Tickets is an app made with **Flutter** framework to provide online ticket booking functionality.
 **The release apk is available under the release tags. It's also available on this drive link - [Book Tickets APK]**
-
-## Demo
-<div align="center">
-  <video src="https://user-images.githubusercontent.com/62943972/149531248-ccbd3b54-1ae8-4565-807b-2f8bf2e64d21.mp4"/>
-</div>
 
 ## Project setup
 ```
