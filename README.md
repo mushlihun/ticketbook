@@ -68,7 +68,10 @@ flutter run --dart-define=BASE_URL="your-url-here"
 </table>
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 🚀 Technologies
+
+- [Flutter v2.8.1]
+- Dart v2.14.4
 
 ## :iphone: Screens
 :art: The UI is inspired by this [dribbble shot]
@@ -93,3 +96,4 @@ Forgot Password Screen | OTP Screen | OTP Email |
 [frontend]: <https://github.com/mushlihun/ticketbook.git/frontend>
 [Book Tickets APK]: <https://drive.google.com/file/d/1n1NLNaKK58IyZHnq1ehFZvzZLKmsKjtv/view?usp=sharing->
 [dribbble shot]: <https://dribbble.com/shots/8257559-Movie-2-0>
+[Flutter v2.8.1]: <https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.8.1-stable.zip>
