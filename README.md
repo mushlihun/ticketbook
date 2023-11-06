@@ -93,7 +93,7 @@ Forgot Password Screen | OTP Screen | OTP Email |
 ![](./readme_files/forgot_password_screen.jpg) | ![](./readme_files/otp_screen.jpg) | ![](./readme_files/otp_email.jpg)
 
 [backend]: <https://github.com/mushlihun/ticketbook.git/backend>
-[frontend]: <https://github.com/mushlihun/ticketbook.git/frontend>
+[frontend]: <https://github.com/mushlihun/ticketbook>
 [Book Tickets APK]: <https://drive.google.com/file/d/1n1NLNaKK58IyZHnq1ehFZvzZLKmsKjtv/view?usp=sharing->
 [dribbble shot]: <https://dribbble.com/shots/8257559-Movie-2-0>
 [Flutter v2.8.1]: <https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.8.1-stable.zip>
